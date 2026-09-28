@@ -1,0 +1,7 @@
+# Credentials must remain local
+.env
+reddit_config.json
+__pycache__/
+*.pyc
+Pautas Geradas/
+
